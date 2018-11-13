@@ -1,2 +1,2 @@
 # Vuejs
-Une calculatrice en Vuejs et Bootstarp
+Une simple calculatrice en Vuejs et Bootstarp
